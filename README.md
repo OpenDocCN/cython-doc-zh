@@ -8,7 +8,7 @@
 > 
 > 起初就把事情做对是完全没必要的。但最后要把事情做对是绝对必要的。——Andrew Hunt & David Thomas
 
-* [在线阅读](https://cython.apachecn.org)
+* [在线阅读](https://cython.flygon.net)
 ## 下载
 
 ### Docker
